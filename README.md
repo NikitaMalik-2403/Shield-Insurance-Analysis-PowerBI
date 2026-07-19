@@ -37,18 +37,20 @@ The dashboard was created to answer the following business questions:
 ## 📈 General View
 
 
+<img width="1435" height="810" alt="General View" src="https://github.com/user-attachments/assets/b0db08fa-e8d3-4751-a68b-10e452949f8d" />
 
 ---
 
 ## 💼 Sales Mode Analysis
 
-![Sales Mode](Images/Sales_Mode_Analysis.png)
+
+<img width="1435" height="810" alt="General View" src="https://github.com/user-attachments/assets/7d50fc32-577a-4a69-9cf6-e4f358660ce4" />
 
 ---
 
 ## 👥 Age Group Analysis
+<img width="1437" height="806" alt="Age Group" src="https://github.com/user-attachments/assets/a2d9654a-4c3e-4dd1-997f-dac48731170f" />
 
-![Age Group](Images/Age_Group_Analysis.png)
 
 ---
 
@@ -228,6 +230,13 @@ Some of the important DAX measures created in this project include:
 - Analytical Thinking
 
 ---
+# 📥 Download Dashboard
+
+The Power BI dashboard file exceeds GitHub's upload limit. You can download the complete `.pbix` file using the link below:
+
+**🔗 Power BI Dashboard (.pbix):**  https://1drv.ms/u/c/04de2533185db862/IQArCEciYPZcSavDdIVLFkO0AQt-zWEYhYzt56aHJkYy0bA?e=q1tney
+
+---
 # 🎥 Dashboard Walkthrough
 
 📌 **LinkedIn Project Demo**
@@ -241,17 +250,6 @@ This project uses the **Shield Insurance dataset** provided as part of the **Cod
 
 ---
 
-# 🚀 Future Enhancements
-
-- Add Forecasting for Revenue Trends
-- Build Claim Analysis Dashboard
-- Add Policy Renewal Analysis
-- Implement Row-Level Security (RLS)
-- Connect to SQL Database
-- Schedule Automatic Refresh using Power BI Service
-
----
-
 # 👩‍💻 About Me
 
 ## Nikita Malik
@@ -261,7 +259,6 @@ Aspiring **Data Analyst** passionate about transforming raw data into meaningful
 ### Skills
 
 - Power BI
-- SQL
 - Excel
 - Python
 - DAX
@@ -272,10 +269,9 @@ Aspiring **Data Analyst** passionate about transforming raw data into meaningful
 
 ## 📬 Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/YOUR-LINK/
+**LinkedIn:** (https://www.linkedin.com/in/nikita-malik-3835a9158/)
 
-**GitHub:** https://github.com/YOUR-USERNAME
-
+**GitHub:**   https://github.com/NikitaMalik-2403
 ---
 
 ⭐ **If you found this project helpful or interesting, please consider giving it a Star!**
